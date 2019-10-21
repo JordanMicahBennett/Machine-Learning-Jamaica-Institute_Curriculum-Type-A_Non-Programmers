@@ -84,19 +84,19 @@ The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudl
 ## Week 3 - Convolutional Artificial Neural Networks
 
 1. Watch [Convolution Neural Networks - explained!](https://www.youtube.com/watch?v=m8pOnJxOcqY) by Code Emporium.
-2. Write a Convolutional Neural Network (using any ML libraries like Tensorflow), based on video above.
+2. Write a Convolutional Neural Network (using any ML library like Tensorflow), based on video above.
 3. Upload this code to your github account. Name it "My-Code_For-MLJI-Week-3", or something similar.
 
 ## Week 4 - Recurrent Artificial Neural Networks
 
 1. Watch [Recurrent Neural Networks - explained!](https://www.youtube.com/watch?v=yZv_yRgOvMg) by Code Emporium.
-2. Write a Recurrent Neural Neural Network (using any ML libraries like Tensorflow), based on video above.
+2. Write a Recurrent Neural Neural Network (using any ML library like Tensorflow), based on video above.
 3. Upload this code to your github account. Name it "My-Code_For-MLJI-Week-4", or something similar.
 
 ## Week 5 - Generative Adversarial Neural Networks
 1. Watch [Generative Adversarial Networks - FUTURISTIC & FUN AI!](https://www.youtube.com/watch?v=O8LAi6ksC80) by Code Emporium.
 2. Watch ["Make a Face Generative Adversarial Network in 15 MINUTES!"](https://www.youtube.com/watch?v=qbW-X6iW5jE) by Discover Artificial Intelligence.
-3. Write a Generative Adversarial Neural Network (using any ML libraries like Tensorflow), based on video above.
+3. Write a Generative Adversarial Neural Network (using any ML library like Tensorflow), based on video above.
 4. Upload this code to your github account. Name it "My-Code_For-MLJI-Week-5", or something similar.
 
 ## Week 6 - Deep Reinforcement Learning
