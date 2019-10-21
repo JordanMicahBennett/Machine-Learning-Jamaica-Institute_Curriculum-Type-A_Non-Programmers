@@ -16,7 +16,7 @@ This curriculum consists of 3 main parts and one final optional part:
 
 # Note: The total time required to complete this entire curriculum is roughly 6 weeks and 13 hours, excluding semester 4.
 
-![Alt Text](https://github.com/JordanMicahBennett/MachineLearningJamaicaInstitute_CurriculumTypeA_NonProgrammers/blob/master/data/down.png)
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum-Type-A_Non-Programmers/blob/master/data/down.png)
 
 # First Semester, Part A (Estimated Completion Duration: Roughly 5 hours, 43 minutes) ~ Learn the Python Programming Language:
 
@@ -28,7 +28,7 @@ This curriculum consists of 3 main parts and one final optional part:
 The author of the playlist above is [Bucky Roberts](https://www.facebook.com/TheNewBoston-464114846956315/).
 
 
-![Alt Text](https://github.com/JordanMicahBennett/MachineLearningJamaicaInstitute_CurriculumTypeA_NonProgrammers/blob/master/data/down.png)
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum-Type-A_Non-Programmers/blob/master/data/down.png)
 
 # First Semester, Part B (Estimated Completion Duration: Roughly 1 hour) ~ Learn a regularly used machine learning library, called "numpy" found in the Python Programming Language:
 
@@ -39,7 +39,7 @@ The author of the playlist above is [Bucky Roberts](https://www.facebook.com/The
 ## First Semester, Part B/Credits:
 The author of the tutorial above is [Stanford](http://cs231n.github.io). (The tutorial above was suggested by [this page](https://github.com/kjaisingh/high-school-guide-to-machine-learning).)
 
-![Alt Text](https://github.com/JordanMicahBennett/MachineLearningJamaicaInstitute_CurriculumTypeA_NonProgrammers/blob/master/data/down.png)
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum-Type-A_Non-Programmers/blob/master/data/down.png)
 
 
 # First Semester, Part C (Estimated Completion Duration: Roughly 40 minutes) ~ Learn a regularly used machine learning library, called "pickle" found in the Python Programming Language:
@@ -52,7 +52,7 @@ The author of the tutorial above is [Stanford](http://cs231n.github.io). (The tu
 More python pickle information can be found on the [Pickle Library Page](https://wiki.python.org/moin/Pickle). 
 
 
-![Alt Text](https://github.com/JordanMicahBennett/MachineLearningJamaicaInstitute_CurriculumTypeA_NonProgrammers/blob/master/data/down.png)
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum-Type-A_Non-Programmers/blob/master/data/down.png)
 
 # Second Semester (Estimated Completion Duration: Roughly 1 hour) ~ Learn how to setup and use github:
 
@@ -63,7 +63,7 @@ More python pickle information can be found on the [Pickle Library Page](https:/
 ## Second Semester/Credits:
 The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudler). 
 
-![Alt Text](https://github.com/JordanMicahBennett/MachineLearningJamaicaInstitute_CurriculumTypeA_NonProgrammers/blob/master/data/down.png)
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum-Type-A_Non-Programmers/blob/master/data/down.png)
 
 
 # Third Semester (Estimated Completion Duration: 6 weeks and 4 hours) ~ Study and Write "[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)" Code:
@@ -119,7 +119,7 @@ This course was desgined by [Jordan Micah Bennett](https://www.linkedin.com/in/p
 
 
 
-![Alt Text](https://github.com/JordanMicahBennett/MachineLearningJamaicaInstitute_CurriculumTypeA_NonProgrammers/blob/master/data/down.png)
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum-Type-A_Non-Programmers/blob/master/data/down.png)
 
 
 # Fourth Semester (Estimated Completion Duration: 2+ weeks) ~ Apply prior semesters' knowledge to build an app of your choosing.
@@ -152,7 +152,7 @@ The portfolio will list all your uploaded works, including your final-semester c
 
 This portfolio will be accessible from your URL above, and will appeal to your employers!
       
-![Alt Text](https://github.com/JordanMicahBennett/MachineLearningJamaicaInstitute_CurriculumTypeA_NonProgrammers/blob/master/data/down.png)
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum-Type-A_Non-Programmers/blob/master/data/down.png)
 
 
 # Main Page
