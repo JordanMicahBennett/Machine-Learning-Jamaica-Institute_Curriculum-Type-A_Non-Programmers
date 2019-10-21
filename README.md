@@ -1,4 +1,5 @@
-![Alt Text](https://github.com/JordanMicahBennett/MachineLearningJamaicaInstitute_CurriculumTypeA_NonProgrammers/blob/master/data/logo.png)
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum-Type-A_Non-Programmers/blob/master/data/logo.png)
+
 
 
 # [MLJI](http://mlj-institute.appspot.com/) Curriculum Type A (For non programmers)
