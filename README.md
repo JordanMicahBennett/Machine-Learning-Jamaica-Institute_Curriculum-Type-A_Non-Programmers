@@ -71,7 +71,7 @@ The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudl
 
 ## Week 1 - Introduction to Artificial Neural Networks
 
-1. Follow closely, Daniel Shifman's fun neural network playlist here, in order: [Nature of Code: Neural Networks](https://www.youtube.com/watch?v=XJ7HLz9VYz0&list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh). (Note: This is over 2 hours, but fun. No shortcuts really.)
+1. Follow closely, [this 9 step neural network construction tutorial by Eden Au](https://towardsdatascience.com/machine-learning-in-python-numpy-neural-network-in-9-steps-eafd0db25906).
 2. **Intuitive understanding** of basic machine learning components, such as fundamental artificial neural network structures, is important for **maintaining the desire** to continue to pursue the field of artificial intelligence/machine learning/data science. If you still desire a more intuitive description of the basic artificial neural networks described in items 1 to 6 above, read the text descriptions and watch the video content found in my book "**Artificial Neural Networks for Kids**". (Get the book from [this Amazon url](https://www.amazon.com/dp/B077FX57ZZ), or get it free from [this Research-Gate url](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)).
 3. Try to construct a basic artificial neural network from scratch, without the usage of any machine learning library.
 4. Upload this code to your github account. Name it "My-Code_For-MLJI-Week-1", or something similar.
