@@ -176,6 +176,7 @@ This portfolio will be accessible from your URL above, and will appeal to your e
       
 ![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum-Type-A_Non-Programmers/blob/master/data/down.png)
 
+# Bonus - Explore an Introduction to Artificial General Intelligence, [seen as humanity's last invention](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf) accoding to Prof Ben Gortzel, etc.
 
 # Main Page
 You may return to the main page from [here](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage).
